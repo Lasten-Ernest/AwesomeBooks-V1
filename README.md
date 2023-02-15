@@ -68,8 +68,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
-
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
@@ -101,9 +99,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Add Navigation]**
-- **[Add Date and Time]**
-- **[Add contact details and footer]**
+- **[Refactor using Classes]**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -112,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://https://lasten-ernest.github.io/AwesomeBooks-V1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +163,7 @@ N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
 ## 👥 Author <a name="author"></a>
 
@@ -198,7 +195,7 @@ N/A
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Lasten-Ernest/AwesomeBooks-V1/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -218,7 +215,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank the Microverse team for encouragement and ideas
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

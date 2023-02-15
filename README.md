@@ -68,8 +68,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
-
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>

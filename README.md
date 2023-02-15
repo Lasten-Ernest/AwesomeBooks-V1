@@ -17,14 +17,12 @@ The project contains the List, Add and Contact page.
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
-
-## Prerequisites
+  ## Prerequisites
 - Have VSCode or other text editor installed. [Link to download VSCode](https://code.visualstudio.com/download)
 - Install node package. [Link to download node](https://nodejs.org/en/download/)
 - Have git installed.[Link to download git](https://git-scm.com/downloads)
 - Create a github repository.
-
-## Setup
+  ## Setup
 - git clone https://github.com/lasten-ernest/awesomeBooks-V1.git
 - cd awesomeBooks-V1/
 -Follow the HTML-CSS linter configuration to docs to setup linters [Link to Microverse linter docs](https://github.com/microverseinc/linters-config/tree/master/html-css-js)
@@ -49,7 +47,8 @@ For tracking linters errors locally, you need to follow these steps:
 
 **Ernest Lasten**
 - GitHub: [@githubhandle](https://github.com/Lasten-Ernest)
-- Twitter: [@twitterhandle]
+ AwesomeBooks-website-part1
+- Twitter: [@Ernest-Lasten]
 
 
 ## 🤝 Contributing
@@ -59,9 +58,9 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
+AwesomeBooks-website-part1
 
-Give a ⭐️ if you like this project!
-
+Give a ⭐️ if you like this project
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.

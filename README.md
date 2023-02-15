@@ -49,7 +49,8 @@ For tracking linters errors locally, you need to follow these steps:
 
 **Ernest Lasten**
 - GitHub: [@githubhandle](https://github.com/Lasten-Ernest)
-- Twitter: [@twitterhandle]
+ AwesomeBooks-website-part1
+- Twitter: [@Ernest-Lasten]
 
 
 ## 🤝 Contributing
@@ -59,9 +60,9 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
+AwesomeBooks-website-part1
 
-Give a ⭐️ if you like this project!
-
+Give a ⭐️ if you like this project
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.

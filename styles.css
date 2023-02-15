@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  position: relative;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.container {
+  margin: 0 5vw;
+}
+
+.header {
+  position: fixed;
+  width: 100vw;
+  top: 0;
+}
+
+.nav-container {
+  width: 100vw;
+  margin-left: -5vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid #000;
+}
+
+.book-list li {
+  list-style: none;
+  line-height: 2.5;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.nav-container ul {
+  list-style: none;
+  display: flex;
+}
+
+.inputField {
+  display: flex;
+  flex-direction: column;
+  margin: 7px;
+  border: 2px solid;
+}
+
+.btn,
+.remove-btn {
+  padding: 2.5px;
+  box-shadow: 3px 3px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.submit-btn {
+  width: 70px;
+  margin-left: calc(100% - 70px);
+}
+
+.border-class {
+  border: 3px solid #000;
+  margin: 20px;
+}
+
+.book-ul {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.title-author {
+  width: 95%;
+  float: left;
+}
+
+#title {
+  width: 100%;
+  padding: 5px;
+  border: 2.5px solid;
+}
+
+#author {
+  width: 100%;
+  padding: 5px;
+  border: 2.5px solid;
+}
+
+.form-div {
+  display: block;
+  text-align: center;
+}
+
+.add-book {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#add-book {
+  display: none;
+}
+
+.app-title {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.heading {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.book-list {
+  border: 2px solid #000;
+}
+
+.nav-container ul li {
+  padding: 5px;
+  border-right: 2px solid #000;
+  cursor: pointer;
+}
+
+.book-list li:nth-child(odd) {
+  background-color: rgb(138, 134, 134);
+  color: beige;
+}
+
+.nav-links li:hover {
+  font-size: 24px;
+  background-color: rgb(138, 134, 134);
+  transition: all 0.5s ease-in-out;
+}
+
+.nav-container ul li:last-child {
+  padding: 5px;
+  border-right: 0;
+}

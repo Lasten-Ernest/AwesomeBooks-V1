@@ -18,6 +18,9 @@ The project contains the List, Add and Contact page.
 - Javascript
 - CSS3
 
+## tecchnology stack
+- javascript
+
   - [🚀 Live Demo]
   ## click on the link below for a live demo
   (https://lasten-ernest.github.io/awesomeBooks-V1/)
@@ -63,7 +66,14 @@ For tracking linters errors locally, you need to follow these steps:
 - Twitter: [@Ernest-Lasten]
 
 - [🔭 Future Features]
+- add a book
+- deleting a book
+- viewing contact details
+- listing books
+
 (#future-features)
+- Functionality to edit the author and book name
+
 - 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -82,7 +92,12 @@ Give a ⭐️ if you like this project
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
-## 📝 License
+I would like to thank the microverse team for technical support and advice
 
-This project is [MIT](./MIT.md) licensed.
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

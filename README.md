@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[Awesome Books Project]** is a...
+**[Awesome Books Project]** is a Book application that allows the user to add, remove and display added books. Users can view date as well as contact information. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -99,7 +99,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Refactor using Classes]**
+- **[Added Navigation]**
+- **[Added Date and Time]**
+- **[Added Contact details and footer]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +111,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://https://lasten-ernest.github.io/AwesomeBooks-V1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,9 +165,9 @@ N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -195,7 +197,7 @@ N/A
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Lasten-Ernest/AwesomeBooks-V1/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,7 +217,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank the Microverse team for encouragement and ideas
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,11 +238,8 @@ I would like to thank...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

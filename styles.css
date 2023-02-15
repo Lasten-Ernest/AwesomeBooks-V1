@@ -41,6 +41,13 @@ a {
   border: 2px solid #000;
 }
 
+.logo a {
+  font-weight: bold;
+  color: #000;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
 .book-list li {
   list-style: none;
   line-height: 2.5;
@@ -115,6 +122,10 @@ a {
   display: none;
 }
 
+#contact {
+  display: none;
+}
+
 .app-title {
   text-align: center;
   padding-top: 50px;
@@ -127,6 +138,48 @@ a {
 
 .book-list {
   border: 2px solid #000;
+}
+
+.contact {
+  flex-direction: column;
+  align-items: center;
+  margin: 90px auto;
+  padding: 10px;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.contact li {
+  font-size: 20px;
+  font-weight: 400;
+  list-style-type: none;
+}
+
+.contact h2 {
+  text-align: center;
+  color: #2a2a2a;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.contact p {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.contact-info span {
+  box-shadow: 3px 3px;
+  font-size: 20px;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  background-color: beige;
+  padding: 10px 0;
 }
 
 .nav-container ul li {
@@ -149,4 +202,8 @@ a {
 .nav-container ul li:last-child {
   padding: 5px;
   border-right: 0;
+}
+
+.timeDisplay {
+  float: right;
 }

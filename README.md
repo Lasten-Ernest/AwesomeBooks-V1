@@ -1,9 +1,70 @@
+<a name="readme-top"></a>
+
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
 <!-- PROJECT DESCRIPTION -->
-# 📖 [your_project_name] <a name="about-project"></a>
+
+# 📖 [Awesome Books Project] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Awesome Books Project]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -11,15 +72,36 @@
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">JavaScript</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="#">Live Server</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="#">N/A</a></li>
+  </ul>
+</details>
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Refactor using Classes]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -45,75 +127,41 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+Live server extension installed
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+  git clone https://github.com/Lasten-Ernest/AwesomeBooks-V1
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
 
-```sh
-  cd my-project
-  gem install
-```
---->
+  npm install
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
 
-```sh
-  rails server
-```
---->
+  open index.html file with live server in vscode
+
 
 ### Run tests
 
 To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+N/A
 
 ### Deployment
 
 You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,17 +171,12 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Ernest Lasten**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Lasten-Ernest](https://github.com/Lasten-Ernest)
+- Twitter: [@LastenErnest](https://twitter.com/LastenErnest)
+- LinkedIn: [@ernestlasten](https://linkedin.com/in/ernestlasten)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,9 +186,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Create full website]**
+- [ ] **[Refactor books application with Es6]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,134 +241,8 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-This project is [MIT](./MIT.md) licensed.
-
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-# Awesome-books Website
-
-This website displays a list of books a users have added. It allows you to add and remove books from that list also. The goal of this project is to build a simple multipage page responsive book website.
-
-In this project, I setup Html-CSS-JavaScript files for adding, removing and listing books and, added linters following the guidelines stated in the Html-CSS-JavaScript linter config documentation of Microverse.
-
-The project contains the List, Add and Contact page.
-
-## Built With
-
-- HTML5,
-- Javascript
-- CSS3
-
-  - [🚀 Live Demo]
-  ## click on the link below for a live demo
-  (https://lasten-ernest.github.io/awesomeBooks-V1/)
-
-- [💻 Getting Started](#getting-started)
-
-## Setup
-
-To get a local copy up and running follow these simple example steps.
-  ## Prerequisites
-- Have VSCode or other text editor installed. [Link to download VSCode](https://code.visualstudio.com/download)
-
-- [Install](#install)
-
-- Install node package. [Link to download node](https://nodejs.org/en/download/)
-- Have git installed.[Link to download git](https://git-scm.com/downloads)
-- Create a github repository.
-- git clone https://github.com/lasten-ernest/awesomeBooks-V1.git
-- cd awesomeBooks-V1/
--Follow the HTML-CSS linter configuration to docs to setup linters [Link to Microverse linter docs](https://github.com/microverseinc/linters-config/tree/master/html-css-js)
-
-## Run tests
-
-For tracking linters errors locally, you need to follow these steps:
-
-- For tracking linter errors in HTML file run:
-`npx hint .`
-- For tracking linter errors in CSS file run:
-`npx stylelint "**/*.{css,scss}"`
-- For tracking linter errors in Javascript file run:
-`npx eslint .`
-
-## Deployment
-
-- Use GitHub pages to deploy website
-- For more information about publishing sources, see [About github pages](https://pages.github.com/)
-
-## Author
-
-**Ernest Lasten**
-- GitHub: [@githubhandle](https://github.com/Lasten-Ernest)
- AwesomeBooks-website-part1
-- Twitter: [@Ernest-Lasten]
-
-- [🔭 Future Features]
-(#future-features)
-- 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Lasten-Ernest/AwesomeBooks-V1/issues).
-
-- [⭐️ Show your support](#support)
-## Show your support
-AwesomeBooks-website-V1
-
-Give a ⭐️ if you like this project
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.

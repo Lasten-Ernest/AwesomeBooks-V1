@@ -66,12 +66,7 @@ For tracking linters errors locally, you need to follow these steps:
 - Twitter: [@Ernest-Lasten]
 
 - [🔭 Future Features]
-- add a book
-- deleting a book
-- viewing contact details
-- listing books
-
-(#future-features)
+- Creating the Books app with E6 
 - Functionality to edit the author and book name
 
 - 🤝 Contributing

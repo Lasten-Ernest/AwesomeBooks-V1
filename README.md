@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[Awesome Books Project]** is a...
+**[Awesome Books Project]** is a Book application that allows the user to add, remove and display added books. Users can view date as well as contact information. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
